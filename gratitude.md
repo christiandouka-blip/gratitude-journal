@@ -14,3 +14,5 @@ I am grateful for having a productive study session today.
 I am grateful for having the chance to keep learning new technical skills.
 # March 30, 2024
 I am great full to learn API
+## March 31, 2024
+I am gratfull that I have learn to work in group is important 
