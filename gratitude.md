@@ -20,3 +20,5 @@ I am gratfull that I have learn to work in group is important
 I am gratefull that I was able to make my first built 
 ## April 4, 2025
 I am gratefull to learn something that I strongly believe will led to a successfull outcome 
+## April 6, 2025
+I am gratefull because I learned more about what is a package Manager Thank you !
