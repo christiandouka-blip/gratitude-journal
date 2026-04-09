@@ -22,3 +22,5 @@ I am gratefull that I was able to make my first built
 I am gratefull to learn something that I strongly believe will led to a successfull outcome 
 ## April 6, 2025
 I am gratefull because I learned more about what is a package Manager Thank you !
+## April 7, 2025
+I am gratefull because I did my second built and I am more confident 
