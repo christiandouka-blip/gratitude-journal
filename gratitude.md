@@ -26,3 +26,5 @@ I am gratefull because I learned more about what is a package Manager Thank you 
 I am gratefull because I did my second built and I am more confident 
 ## April 8, 2025
 I am greatfull that I have completed my second project 
+## April 11, 2025
+I am gratefull that I used Cursor to built a minidata base 
