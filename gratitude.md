@@ -28,3 +28,5 @@ I am gratefull because I did my second built and I am more confident
 I am greatfull that I have completed my second project 
 ## April 11, 2025
 I am gratefull that I used Cursor to built a minidata base 
+## April 12, 2025
+I am gratefull that I used Cursor to built a minidata base
