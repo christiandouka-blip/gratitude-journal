@@ -34,3 +34,5 @@ I am gratefull that I used Cursor to built a minidata base
 I am gratefull I have learn what is a data base a such a search history
 ## April 14, 2026
 I am greatfull that I was able to create a database in my current project
+# April 15, 2026
+I am gratefull that I was able to add more features in my demo 
