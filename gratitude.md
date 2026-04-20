@@ -38,3 +38,5 @@ I am greatfull that I was able to create a database in my current project
 I am gratefull that I was able to add more features in my demo 
 # April 18, 2026
 I am gratefull that I was able topresent my demo with more details
+## April 19, 2026
+I am gratefull that I am able to learn the differnce between UI UX
