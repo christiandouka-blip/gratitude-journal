@@ -40,5 +40,5 @@ I am gratefull that I was able to add more features in my demo
 I am gratefull that I was able topresent my demo with more details
 ## April 19, 2026
 I am gratefull that I am able to learn the differnce between UI UX
-## April 19, 2026
+## April 20 2026
 I am gratefull That I was able to understand the build in Figma 
