@@ -46,3 +46,5 @@ I am gratefull That I was able to understand the build in Figma
 I am gratefull that I built my app and mow I need to test it 
 # April 22 2026
 I am gratefull that I create an app on figma then I was able to include a link that works 
+# April 25 2026
+I am grateful that I am able to learn testing and debuggings
