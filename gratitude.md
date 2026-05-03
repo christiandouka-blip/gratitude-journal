@@ -52,3 +52,5 @@ I am grateful that I am able to learn testing and debuggings
 I am gratefull that I was able to learn how to debug a file and the principle
 # April 27 2026
 i am gratefull that I have been learning how to debug and my app work on my computer 
+ April 28 2026
+ i am gratefull that I learned how to Q&A
