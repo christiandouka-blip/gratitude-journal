@@ -50,3 +50,5 @@ I am gratefull that I create an app on figma then I was able to include a link t
 I am grateful that I am able to learn testing and debuggings
 # April 26 2026
 I am gratefull that I was able to learn how to debug a file and the principle
+# April 27 2026
+i am gratefull that I have been learning how to debug and my app work on my computer 
