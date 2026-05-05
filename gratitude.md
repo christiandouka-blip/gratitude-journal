@@ -56,3 +56,5 @@ i am gratefull that I have been learning how to debug and my app work on my comp
  i am gratefull that I learned how to Q&A
 # May 02 2026
 I am gratefull that I was able to learn the principle of coding 
+# May 01 2026
+I am gratefull that I was able to implement new features to my app 
